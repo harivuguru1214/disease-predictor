@@ -1,0 +1,5 @@
+{
+  "name": "Symptom-Based Disease Predictor",
+  "description": "An AI-powered application that predicts potential diseases based on user-selected symptoms. This tool uses a generative model to simulate predictions from a machine learning dataset and is for informational purposes only, not as a substitute for professional medical advice.",
+  "requestFramePermissions": []
+}
